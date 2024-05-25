@@ -1,0 +1,6 @@
+numpy==1.19.2
+scikit-learn==0.22.2.post1
+opencv-python==4.1.1.26
+pyaes==1.6.1
+matplotlib==3.1.1
+eciespy==0.3.10
